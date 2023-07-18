@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: PROJECT 1	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Wissen digital vermitteln</description>
 	<lastBuildDate>Fri, 17 Feb 2017 11:35:26 +0000</lastBuildDate>

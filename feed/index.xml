@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Luz Media</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Wissen digital vermitteln</description>
 	<lastBuildDate>Mon, 30 Jan 2023 10:25:13 +0000</lastBuildDate>

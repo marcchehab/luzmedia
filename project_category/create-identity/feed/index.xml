@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Create identity Archives - Luz Media</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Wissen digital vermitteln</description>
 	<lastBuildDate>Fri, 17 Feb 2017 11:40:49 +0000</lastBuildDate>
@@ -36,7 +36,7 @@
 		<pubDate>Fri, 17 Feb 2017 11:40:49 +0000</pubDate>
 				<guid isPermaLink="false">http://mxajfmgl.preview.infomaniak.website/?post_type=project&#038;p=240</guid>
 
-					<description><![CDATA[<p>The post <a rel="nofollow" href="./../../../project/project-6/index.html">PROJECT 6</a> appeared first on <a rel="nofollow" href="./../../../index.html">Luz Media</a>.</p>
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/../../project/project-6/index.html">PROJECT 6</a> appeared first on <a rel="nofollow" href="/../../index.html">Luz Media</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p><div class="et_pb_section et_pb_section_0 et_section_regular" >
 				
@@ -156,7 +156,7 @@
 				
 				
 			</div></p>
-<p>The post <a rel="nofollow" href="./../../../project/project-6/index.html">PROJECT 6</a> appeared first on <a rel="nofollow" href="./../../../index.html">Luz Media</a>.</p>
+<p>The post <a rel="nofollow" href="/../../project/project-6/index.html">PROJECT 6</a> appeared first on <a rel="nofollow" href="/../../index.html">Luz Media</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>./../../../project/project-6/feed/index.html</wfw:commentRss>
@@ -173,7 +173,7 @@
 		<pubDate>Fri, 17 Feb 2017 11:36:30 +0000</pubDate>
 				<guid isPermaLink="false">http://mxajfmgl.preview.infomaniak.website/?post_type=project&#038;p=227</guid>
 
-					<description><![CDATA[<p>The post <a rel="nofollow" href="./../../../project/project-2/index.html">PROJECT 2</a> appeared first on <a rel="nofollow" href="./../../../index.html">Luz Media</a>.</p>
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/../../project/project-2/index.html">PROJECT 2</a> appeared first on <a rel="nofollow" href="/../../index.html">Luz Media</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p><div class="et_pb_section et_pb_section_3 et_section_regular" >
 				
@@ -293,7 +293,7 @@
 				
 				
 			</div></p>
-<p>The post <a rel="nofollow" href="./../../../project/project-2/index.html">PROJECT 2</a> appeared first on <a rel="nofollow" href="./../../../index.html">Luz Media</a>.</p>
+<p>The post <a rel="nofollow" href="/../../project/project-2/index.html">PROJECT 2</a> appeared first on <a rel="nofollow" href="/../../index.html">Luz Media</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>./../../../project/project-2/feed/index.html</wfw:commentRss>
