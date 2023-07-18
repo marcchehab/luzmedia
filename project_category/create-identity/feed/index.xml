@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2021/09/bulp_outlined_nobg.svg</url>
+	<url>./../.././wp-content/uploads/2021/09/bulp_outlined_nobg.svg</url>
 	<title>Create identity Archives - Luz Media</title>
 	<link>./../index.html</link>
 	<width>32</width>
@@ -127,7 +127,7 @@
 				
 				
 				
-				<span class="et_pb_image_wrap "><img decoding="async" src="./wp-content/uploads/2017/02/pencils.jpg" alt="" title="" /></span>
+				<span class="et_pb_image_wrap "><img decoding="async" src="/wp-content/uploads/2017/02/pencils.jpg" alt="" title="" /></span>
 			</div>
 			</div>
 				
@@ -145,7 +145,7 @@
 				
 				
 				
-				<span class="et_pb_image_wrap "><img decoding="async" src="./wp-content/uploads/2017/02/pencil_book.jpg" alt="" title="" /></span>
+				<span class="et_pb_image_wrap "><img decoding="async" src="/wp-content/uploads/2017/02/pencil_book.jpg" alt="" title="" /></span>
 			</div>
 			</div>
 				
@@ -264,7 +264,7 @@
 				
 				
 				
-				<span class="et_pb_image_wrap "><img decoding="async" src="./wp-content/uploads/2017/02/project_8.jpg" alt="" title="" /></span>
+				<span class="et_pb_image_wrap "><img decoding="async" src="/wp-content/uploads/2017/02/project_8.jpg" alt="" title="" /></span>
 			</div>
 			</div>
 				
@@ -282,7 +282,7 @@
 				
 				
 				
-				<span class="et_pb_image_wrap "><img decoding="async" src="./wp-content/uploads/2017/02/project_1.jpg" alt="" title="" /></span>
+				<span class="et_pb_image_wrap "><img decoding="async" src="/wp-content/uploads/2017/02/project_1.jpg" alt="" title="" /></span>
 			</div>
 			</div>
 				

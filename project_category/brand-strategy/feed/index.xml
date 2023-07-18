@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2021/09/bulp_outlined_nobg.svg</url>
+	<url>./../.././wp-content/uploads/2021/09/bulp_outlined_nobg.svg</url>
 	<title>Brand Strategy Archives - Luz Media</title>
 	<link>./../index.html</link>
 	<width>32</width>
@@ -127,7 +127,7 @@
 				
 				
 				
-				<span class="et_pb_image_wrap "><img decoding="async" src="./wp-content/uploads/2017/02/article_6.jpg" alt="" title="" /></span>
+				<span class="et_pb_image_wrap "><img decoding="async" src="/wp-content/uploads/2017/02/article_6.jpg" alt="" title="" /></span>
 			</div>
 			</div>
 				
@@ -145,7 +145,7 @@
 				
 				
 				
-				<span class="et_pb_image_wrap "><img decoding="async" src="./wp-content/uploads/2017/02/bottles.jpg" alt="" title="" /></span>
+				<span class="et_pb_image_wrap "><img decoding="async" src="/wp-content/uploads/2017/02/bottles.jpg" alt="" title="" /></span>
 			</div>
 			</div>
 				
@@ -264,7 +264,7 @@
 				
 				
 				
-				<span class="et_pb_image_wrap "><img decoding="async" src="./wp-content/uploads/2017/02/croissant.jpg" alt="" title="" /></span>
+				<span class="et_pb_image_wrap "><img decoding="async" src="/wp-content/uploads/2017/02/croissant.jpg" alt="" title="" /></span>
 			</div>
 			</div>
 				
@@ -282,7 +282,7 @@
 				
 				
 				
-				<span class="et_pb_image_wrap "><img decoding="async" src="./wp-content/uploads/2017/02/amsterdam.jpg" alt="" title="" /></span>
+				<span class="et_pb_image_wrap "><img decoding="async" src="/wp-content/uploads/2017/02/amsterdam.jpg" alt="" title="" /></span>
 			</div>
 			</div>
 				
@@ -401,7 +401,7 @@
 				
 				
 				
-				<span class="et_pb_image_wrap "><img decoding="async" src="./wp-content/uploads/2017/02/project_2.jpg" alt="" title="" /></span>
+				<span class="et_pb_image_wrap "><img decoding="async" src="/wp-content/uploads/2017/02/project_2.jpg" alt="" title="" /></span>
 			</div>
 			</div>
 				
@@ -419,7 +419,7 @@
 				
 				
 				
-				<span class="et_pb_image_wrap "><img decoding="async" src="./wp-content/uploads/2017/02/pencils.jpg" alt="" title="" /></span>
+				<span class="et_pb_image_wrap "><img decoding="async" src="/wp-content/uploads/2017/02/pencils.jpg" alt="" title="" /></span>
 			</div>
 			</div>
 				
@@ -449,10 +449,10 @@
 				
 				<div class="et_pb_video_box">
 				<video controls>
-					<source type="video/mp4" src="./wp-content/uploads/2017/02/Office-Day-1080p.mp4" />
-					<source type="video/webm" src="./wp-content/uploads/2017/02/Office-Day-1080p.webm" />
+					<source type="video/mp4" src="/wp-content/uploads/2017/02/Office-Day-1080p.mp4" />
+					<source type="video/webm" src="/wp-content/uploads/2017/02/Office-Day-1080p.webm" />
 				</video></div>
-				<div style="background-image:url(./wp-content/uploads/2017/02/Office-Day.jpg)" class="et_pb_video_overlay"><div class="et_pb_video_overlay_hover"><a href="#" class="et_pb_video_play"></a></div></div>
+				<div style="background-image:url(/wp-content/uploads/2017/02/Office-Day.jpg)" class="et_pb_video_overlay"><div class="et_pb_video_overlay_hover"><a href="#" class="et_pb_video_play"></a></div></div>
 			</div>
 			</div>
 				

@@ -8,20 +8,20 @@
 		<loc>./project/project-1/index.html</loc>
 		<lastmod>2017-02-17T11:35:26+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2017/02/project_2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/02/project_2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2017/02/pencils.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/02/pencils.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>./project/project-2/index.html</loc>
 		<lastmod>2017-02-17T11:36:30+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2017/02/project_8.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/02/project_8.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2017/02/project_1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/02/project_1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -32,44 +32,44 @@
 		<loc>./project/project-4/index.html</loc>
 		<lastmod>2017-02-17T11:39:22+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2017/02/project_2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/02/project_2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>./project/project-5/index.html</loc>
 		<lastmod>2017-02-17T11:40:07+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2017/02/croissant.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/02/croissant.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2017/02/amsterdam.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/02/amsterdam.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>./project/project-6/index.html</loc>
 		<lastmod>2017-02-17T11:40:49+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2017/02/pencils.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/02/pencils.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2017/02/pencil_book.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/02/pencil_book.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>./project/project-7/index.html</loc>
 		<lastmod>2017-02-17T11:41:49+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2017/02/article_6.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/02/article_6.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2017/02/bottles.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/02/bottles.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>./project/project-8/index.html</loc>
 		<lastmod>2017-02-17T11:42:33+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2017/02/sewing.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/02/sewing.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
