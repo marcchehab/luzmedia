@@ -1,0 +1,166 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="init" type="InitTab" active="false" scrollx="943.5" scrolly="506.9999999999992" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="initSettings" id="1%YE3N?0ub+EGkZAe[gY" x="-810" y="-450">
+      <field name="LOAD_COMP_ASSETS">FALSE</field>
+      <field name="FULLSCREEN">FALSE</field>
+      <field name="BKG_TRANSPARENCY">TRUE</field>
+      <field name="PRESERVE_DRAW_BUF">FALSE</field>
+      <field name="FADE_ANNOTATIONS">TRUE</field>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="initPreloader" id="AIJY*Tn6G/kqj3I7!f+p" x="-930" y="-170">
+      <statement name="DO_START">
+        <block type="setHTMLElemStyle" id="xN3HpB%n@6bKI~^+yU})">
+          <field name="PROPERTY">width</field>
+          <field name="PARENT">TRUE</field>
+          <value name="VALUE">
+            <block type="text" id="?g}8mm~z,MZE7=Dd#O/=">
+              <field name="TEXT">0%</field>
+            </block>
+          </value>
+          <value name="ID">
+            <shadow type="text" id="98|/.(Wv2uY~N`sLRO%@">
+              <field name="TEXT">loader_inner</field>
+            </shadow>
+          </value>
+          <next>
+            <block type="setHTMLElemStyle" id="c:Z4boh17DiS|ExF]Ya~">
+              <field name="PROPERTY">display</field>
+              <field name="PARENT">TRUE</field>
+              <value name="VALUE">
+                <block type="text" id="`zD3Q}~}#/z`mPfi+mS|">
+                  <field name="TEXT">inherit</field>
+                </block>
+              </value>
+              <value name="ID">
+                <shadow type="text" id="It$I0Di7T;T:rHMRRc5Y">
+                  <field name="TEXT">loader_outer</field>
+                </shadow>
+              </value>
+            </block>
+          </next>
+        </block>
+      </statement>
+      <statement name="DO_PROGRESS">
+        <block type="setHTMLElemStyle" id="y]Q#j-zh1SS/5l]LZ47p">
+          <field name="PROPERTY">width</field>
+          <field name="PARENT">TRUE</field>
+          <value name="VALUE">
+            <block type="text_join" id="BWLffjQeeg0VAmt3P)uY">
+              <mutation items="2"/>
+              <value name="ADD0">
+                <block type="percentage" id=";[2$A):Xu2`crM8;u?O:"/>
+              </value>
+              <value name="ADD1">
+                <block type="text" id="%-X?[7Zu`G7xHuR#Y00d">
+                  <field name="TEXT">%</field>
+                </block>
+              </value>
+            </block>
+          </value>
+          <value name="ID">
+            <shadow type="text" id="u]2Kc[FU0E;Y2;!5ssz8">
+              <field name="TEXT">loader_inner</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+      <statement name="DO_END">
+        <block type="setHTMLElemStyle" id="@RWqOpk67)*`4fB1$ic?">
+          <field name="PROPERTY">display</field>
+          <field name="PARENT">TRUE</field>
+          <value name="VALUE">
+            <block type="text" id="KRo)NY$3l|;__mCgC12k">
+              <field name="TEXT">none</field>
+            </block>
+          </value>
+          <value name="ID">
+            <shadow type="text" id="xX!xrE,#V,hD:Wmbqw{*">
+              <field name="TEXT">loader_outer</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+  </tab>
+  <tab name="main" type="MainTab" active="true" scrollx="1071.4999999999995" scrolly="617.9999999999994" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="/xcS:D^fcu7UD{je9*Ae" x="-970" y="-570">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id=":;Pi}MIxs7m}3`/;r~Eb">
+          <field name="FIELDNAME">redball</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="setMaterialColor" id="`^Kms#y^-r^4b}x_A53#">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" flexcolinput="false" usecsscolor="false"></mutation>
+          <field name="MAT_COL_NAME">Principled BSDF Color</field>
+          <value name="MATERIAL">
+            <shadow type="materialList" id="q)QB@=UB/zG$L+:EGQs(">
+              <field name="FIELDNAME">red</field>
+            </shadow>
+          </value>
+          <value name="R">
+            <shadow type="math_number" id="tgoEx8K45SwJ3~A;r58B">
+              <field name="NUM">0.7</field>
+            </shadow>
+          </value>
+          <value name="G">
+            <shadow type="math_number" id="[eCG9/:=eLz.dgk(-bwB">
+              <field name="NUM">0.2</field>
+            </shadow>
+          </value>
+          <value name="B">
+            <shadow type="math_number" id="_JD6XWIVaMZt+g_}9*9F">
+              <field name="NUM">0.2</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="f0[k5EPG[,b|,.E3c|;c" x="-970" y="-410">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="zrCP=iW9Rz*Jjn9hjV@(">
+          <field name="FIELDNAME">blueball</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="setMaterialColor" id="_uPrE5+UTa=Vl}S?q@($">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" flexcolinput="false" usecsscolor="false"></mutation>
+          <field name="MAT_COL_NAME">Principled BSDF Color</field>
+          <value name="MATERIAL">
+            <shadow type="materialList" id="-]pA^*=J=!/K%?P5JT@c">
+              <field name="FIELDNAME">red</field>
+            </shadow>
+          </value>
+          <value name="R">
+            <shadow type="math_number" id="v2kWIg_d8oaExlB^akD*">
+              <field name="NUM">0.2</field>
+            </shadow>
+          </value>
+          <value name="G">
+            <shadow type="math_number" id="e!MV)oNNoN{5G2DWi!pV">
+              <field name="NUM">0.2</field>
+            </shadow>
+          </value>
+          <value name="B">
+            <shadow type="math_number" id="XSWUwquKa^MoT%s/USZc">
+              <field name="NUM">0.7</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+  </tab>
+  <editorsettings viewport-x="1219.8" viewport-y="28" viewport-w="825.2" viewport-h="545" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
